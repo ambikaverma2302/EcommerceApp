@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645537916821",
+    "project_id": "ecommerceapp-3cb26",
+    "storage_bucket": "ecommerceapp-3cb26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645537916821:android:726911e30c23eb4bd3f89c",
+        "android_client_info": {
+          "package_name": "com.ambika.ecommerceapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDSOOkKZx0dqv_pWAI-x06EZSPTdl0FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
